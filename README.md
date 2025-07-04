@@ -17,7 +17,9 @@ O Telco Customer Churn é um conjunto de dados fictício criado para fins educac
 O dataset simula informações reais de uma operadora de telecomunicações, incluindo variáveis como perfil demográfico, serviços contratados, gastos mensais, tempo de permanência e o status de churn (cancelamento ou não do serviço).
 
 
-## 📊 Destaque do Projeto
+## 📊 Destaques do Projeto
+
+### Mapa de Calor — Impacto de Gênero e Parceria no Churn”
 O principal destaque deste projeto é o **mapa de calor (heatmap)** que cruza gênero e status de parceria com o percentual de churn.  
 Essa análise cruzada revela padrões valiosos que **não seriam visíveis em métricas isoladas**, mostrando como fatores combinados influenciam o cancelamento de clientes.
 
