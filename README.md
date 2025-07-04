@@ -5,5 +5,7 @@
 </div>
 
 
-
+## 📌 Visão Geral
+Este projeto tem como objetivo analisar de forma exploratória e descritiva os dados de churn de uma empresa de Telecom, identificando padrões de cancelamento de serviço e características dos clientes que podem influenciar essa decisão.
+Para isso, foram utilizadas técnicas de Análise Exploratória de Dados (EDA) com Python, empregando bibliotecas como Pandas, Seaborn e Matplotlib. O resultado esperado é compreender o perfil dos clientes, hábitos de consumo e fatores que impactam no churn, auxiliando na tomada de decisão estratégica para retenção de clientes.
 
