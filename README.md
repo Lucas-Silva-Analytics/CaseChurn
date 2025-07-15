@@ -1,7 +1,7 @@
 # Análise de Cancelamento de Clientes
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/225dd628-0d3f-4fdc-a7d9-da4bbb2f482d" alt="2037951-conceito-de-analise-de-dados-vetor"  width="475" height="139">
+  <img src="https://github.com/user-attachments/assets/225dd628-0d3f-4fdc-a7d9-da4bbb2f482d" alt="2037951-conceito-de-analise-de-dados-vetor"  width="325" height="200">
 </div>
 
 
@@ -23,3 +23,6 @@ O dataset simula informações reais de uma operadora de telecomunicações, inc
 O principal destaque deste projeto é o **mapa de calor (heatmap)** que cruza gênero e status de parceria com o percentual de churn.  
 Essa análise cruzada revela padrões valiosos que **não seriam visíveis em métricas isoladas**, mostrando como fatores combinados influenciam o cancelamento de clientes.
 
+<div align="center">
+  <img src="./img/heatmap.png" alt="Descrição" width="380" height="350">
+</div>
